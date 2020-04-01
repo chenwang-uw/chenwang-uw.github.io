@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://chenwang-uw.github.io/atom.xml" rel="self"/>
-  <link href="http://chenwang-uw.github.io/"/>
-  <updated>2020-03-31T18:13:20-07:00</updated>
-  <id>http://chenwang-uw.github.io/</id>
+  <title><![CDATA[Chen Wang Personal Page]]></title>
+  <link href="http://chenwang.io/atom.xml" rel="self"/>
+  <link href="http://chenwang.io/"/>
+  <updated>2020-03-31T18:18:07-07:00</updated>
+  <id>http://chenwang.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Chen Wang]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
