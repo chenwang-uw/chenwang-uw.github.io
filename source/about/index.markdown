@@ -1,0 +1,15 @@
+---
+layout: page
+title: "About"
+comments: true
+sharing: true
+footer: true
+---
+
+Originally from Beijing, China, Chen Wang is currently pursuing the Doctoral of music degree at the [University of Washington](<https://www.washington.edu/>), under the mentorship of Dr. [Michael Brockman](<https://music.washington.edu/people/michael-brockman>). Prior to his doctoral studies, he had studied saxophone with world-famous Saxophone players including Qingquan Li, the principal saxophonist in the Central Military Band of the People's Liberation Army of China and Yi Liu. He earned his Master degree on Saxophone performance under the guidance of Dr. Michael Brockman at the University of Washington. In addition, Wang received another Master degree in Music Education at Capital Normal University in Beijing, where he held a teaching assistant position. He earned his Bachelor’s degree in Musicology and Bachelor of Science degree in Geology at Capital Normal University in Beijing. 
+
+As an active performer, Wang has performed a wide range of classical and modern works from all over the world and made guest appearances as a soloist throughout Europe and China. He has joined and co-founded various Wind Ensembles and Saxophone Quartets in both the United States and China. Wang currently holds the principal position at [Seattle Wind Orchestra](<http://seattlewindsymphony.org/Musicians/Roster.php>) in the 2020 season. He won a principal position in Saxophone at the [University of Washington Wind Ensemble](<https://music.washington.edu/ensembles/wind-ensemble>)  from 2017 to 2018. He also served as principal Alto Saxophone at CNU Wind Ensemble from 2012 to 2014. After his graduation at CNU, he co-founded CNU Alumni Wind Orchestra.  
+
+Wang is the winner of numerous international prizes and awards, including the 1st place of Golden Award in the Wind Music Competition at Beijing, 1st place of Golden Award in the Ostrava Wind Music Competition at Czech Republic, 1st place of Golden Medal in the 3rd Beijing International Wind Music Festival as well as Top Honor Award at My Music Festival in Germany. Besides, Wang also had achievement on his own research regarding Wind Band Educational function. His research won 1st place in The Chinese Society of Education Research papers competitions.
+
+A dedicated advocate of musical education, Wang has great experience in teaching music related topics, such as saxophone performance, chamber music, and musical theory. During his stay at Capital Normal University in China, Wang served as an instructor in several undergraduate courses, including Appreciation of Wind Band Repertory. In 2014, he participated in the National Musical Education Teaching Plan in China, and was honored to give a lecture in music technology and music theory. In addition, in the 2008 Wenchuan (China) Earthquake, he volunteered to help reform local high schools, provided saxophone lessons to child victims, and served as music therapist to Earthquake victims.        
