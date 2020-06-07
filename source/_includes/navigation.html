@@ -1,1 +1,13 @@
-{% include custom/navigation.html %}
+<ul class="main-navigation">
+    {% if page.title == 'About' || page.title == nil %} <div class="selected"> {% else %} <div> {% endif %}
+  <li><a href="{{ root_url }}/">About</a></li></div><div class="spacer"></div>
+    {% if page.title == 'Media'%} <div class="selected"> {% else %} <div> {% endif %}
+  <li><a href="{{ root_url }}/media">Media</a></li></div><div class="spacer"></div>
+  	{% if page.title == 'Gallery'%} <div class="selected"> {% else %} <div> {% endif %}
+  <li><a href="{{ root_url }}/gallery">Gallery</a></li></div><div class="spacer"></div>
+  	{% if page.title == 'Contact'%} <div class="selected"> {% else %} <div> {% endif %}
+  <li><a href="{{ root_url }}/contact">Contact</a></li></div><div class="spacer"></div>
+</ul>
+  {% comment %}
+    <li><a href="{{ root_url }}/blog/archives">Archives</a></li>
+  {% endcomment %}
